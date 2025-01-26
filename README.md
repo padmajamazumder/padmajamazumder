@@ -21,7 +21,7 @@
 [![](https://visitcount.itsvg.in/api?id=padmajamazumder&icon=4&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Trying to enjoy the journey](https://imgur.com/a/OkrEJYD)](https://docs.google.com/document/d/1tK04HFr5fCBRSFCUNwKD49YpL4XkY8coPWGt-TRhdsM/edit?usp=sharing)
+[![Trying to enjoy the journey](https://github.com/padmajamazumder/padmajamazumder/blob/main/Screenshot%202025-01-26%20124219.png?raw=true)](https://docs.google.com/document/d/1tK04HFr5fCBRSFCUNwKD49YpL4XkY8coPWGt-TRhdsM/edit?usp=sharing)
 
 <h3 align="center">hehe trying to enjoy the journey</h3>
 
