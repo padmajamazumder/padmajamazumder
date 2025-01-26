@@ -30,7 +30,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-gradient?style=for-the-badge&logo=instagram&logoColor=white)
 ](https://www.instagram.com/willingly_me/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)
-](padmajamazumder@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://www.linkedin.com/in/padmaja-mazumder/](https://discord.com/users/1189074212447600640))
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]([https://www.linkedin.com/in/padmaja-mazumder/](https://www.reddit.com/user/willingly_me/))
+](mailto:padmajamazumder@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1189074212447600640)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/willingly_me/)
 
