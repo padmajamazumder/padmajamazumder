@@ -9,7 +9,7 @@
 
 
 # </> Coding Profile:
-![LeetCode Stats](https://leetcard.jacoblin.cool/willingly_me?theme=light&font=Antonio)
+![LeetCode Stats](https://leetcard.jacoblin.cool/will_try?theme=light&font=Antonio)
 
 
 # 📊 GitHub Stats:
