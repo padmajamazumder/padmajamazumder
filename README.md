@@ -12,6 +12,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/will_try?theme=light&font=Antonio)
 
 
+
+
+<!--
+
 # 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=padmajamazumder&theme=highcontrast)<br />
